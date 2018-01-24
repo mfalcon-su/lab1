@@ -54,3 +54,17 @@ li{
 .sidebar p{
     margin: 20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: white;
+    border: lightgray;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.blog-post img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
